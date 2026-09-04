@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio & Admin Dashboard",
+  "description": "Developer portfolio featuring Arjan Subedi inspired aligned layout, AS symbol logo, dynamic favicon and social link manager in admin panel, and interactive contact section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
